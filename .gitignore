@@ -16,6 +16,7 @@ web-build/
 *.key
 *.mobileprovision
 
+
 # Metro
 .metro-health-check*
 
@@ -23,6 +24,7 @@ web-build/
 npm-debug.*
 yarn-debug.*
 yarn-error.*
+.vscode
 
 # macOS
 .DS_Store
